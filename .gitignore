@@ -1,0 +1,14 @@
+# ไฟล์ความลับสูงสุด (ถึงแม้เราจะไม่ใส่ แต่ก็กันไว้)
+service-account-key.json
+functions/service-account-key.json
+
+# Dependencies
+node_modules/
+functions/node_modules/
+
+# Firebase local files
+.firebase/
+firebase-debug.log*
+
+# OS files
+.DS_Store
